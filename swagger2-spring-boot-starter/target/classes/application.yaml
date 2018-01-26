@@ -1,0 +1,9 @@
+
+swagger2:
+  enable: true
+#  base-package: cn.aion.demo
+#  documentation-type:
+#  aa: sdsdsd
+server:
+  port: 9090
+

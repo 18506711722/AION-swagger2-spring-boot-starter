@@ -1,0 +1,4 @@
+cn/aion/swagger/config/Swagger2AutoConfiguration.class
+cn/aion/swagger/priperties/Swagger2Properties.class
+META-INF/spring-configuration-metadata.json
+cn/aion/swagger/Swagger2SpringBootStarterApplication.class

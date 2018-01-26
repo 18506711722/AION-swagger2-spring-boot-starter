@@ -1,0 +1,1 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=cn.aion.swagger.config.Swagger2AutoConfiguration
