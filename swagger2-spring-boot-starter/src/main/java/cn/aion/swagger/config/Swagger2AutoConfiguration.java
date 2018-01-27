@@ -27,6 +27,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @EnableSwagger2
 @Configuration
 @EnableConfigurationProperties(value = Swagger2Properties.class)
+@ConditionalOnClass({Docket.class,ApiInfoBuilder.class})
 @ConditionalOnProperty(prefix = "swagger2",name ="enable",havingValue = "true")
 @Setter
 @Getter

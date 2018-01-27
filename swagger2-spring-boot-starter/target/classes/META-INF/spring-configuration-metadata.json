@@ -3,68 +3,68 @@
   "groups": [
     {
       "sourceType": "cn.aion.swagger.priperties.Swagger2Properties",
-      "name": "swagger",
+      "name": "swagger2",
       "type": "cn.aion.swagger.priperties.Swagger2Properties"
     }
   ],
   "properties": [
     {
       "sourceType": "cn.aion.swagger.priperties.Swagger2Properties",
-      "name": "swagger.api-info-contact-email",
+      "name": "swagger2.api-info-contact-email",
       "type": "java.lang.String"
     },
     {
       "sourceType": "cn.aion.swagger.priperties.Swagger2Properties",
-      "name": "swagger.api-info-contact-name",
+      "name": "swagger2.api-info-contact-name",
       "type": "java.lang.String"
     },
     {
       "sourceType": "cn.aion.swagger.priperties.Swagger2Properties",
-      "name": "swagger.api-info-contact-url",
+      "name": "swagger2.api-info-contact-url",
       "type": "java.lang.String"
     },
     {
       "sourceType": "cn.aion.swagger.priperties.Swagger2Properties",
-      "name": "swagger.api-info-terms-of-service-url",
+      "name": "swagger2.api-info-terms-of-service-url",
       "type": "java.lang.String"
     },
     {
       "sourceType": "cn.aion.swagger.priperties.Swagger2Properties",
-      "name": "swagger.api-info-title",
+      "name": "swagger2.api-info-title",
       "type": "java.lang.String"
     },
     {
       "sourceType": "cn.aion.swagger.priperties.Swagger2Properties",
-      "name": "swagger.api-info-version",
+      "name": "swagger2.api-info-version",
       "type": "java.lang.String"
     },
     {
       "sourceType": "cn.aion.swagger.priperties.Swagger2Properties",
       "defaultValue": "",
-      "name": "swagger.base-package",
+      "name": "swagger2.base-package",
       "type": "java.lang.String"
     },
     {
       "sourceType": "cn.aion.swagger.priperties.Swagger2Properties",
-      "name": "swagger.documentation-type-media-type",
+      "name": "swagger2.documentation-type-media-type",
       "type": "java.lang.String"
     },
     {
       "sourceType": "cn.aion.swagger.priperties.Swagger2Properties",
       "defaultValue": "swagger",
-      "name": "swagger.documentation-type-name",
+      "name": "swagger2.documentation-type-name",
       "type": "java.lang.String"
     },
     {
       "sourceType": "cn.aion.swagger.priperties.Swagger2Properties",
       "defaultValue": "2.0",
-      "name": "swagger.documentation-type-version",
+      "name": "swagger2.documentation-type-version",
       "type": "java.lang.String"
     },
     {
       "sourceType": "cn.aion.swagger.priperties.Swagger2Properties",
       "defaultValue": false,
-      "name": "swagger.enable",
+      "name": "swagger2.enable",
       "type": "java.lang.Boolean"
     }
   ]

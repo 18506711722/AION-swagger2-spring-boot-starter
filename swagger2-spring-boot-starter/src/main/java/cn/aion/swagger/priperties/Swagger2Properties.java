@@ -14,7 +14,7 @@ import org.springframework.http.MediaType;
  * @detail Swagger2 配置参数类
  * @date 2018/01/26
  */
-@ConfigurationProperties(prefix = "swagger")
+@ConfigurationProperties(prefix = "swagger2")
 @Setter
 @Getter
 @ToString
